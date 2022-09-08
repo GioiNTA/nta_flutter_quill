@@ -211,7 +211,7 @@ class DefaultStyles {
         h1: DefaultTextBlockStyle(
             defaultTextStyle.style.copyWith(
               fontSize: 24,
-              color: Colors.grey,
+              color: defaultTextStyle.style.color!.withOpacity(0.70),
               height: 1.15,
               fontWeight: FontWeight.w700,
               decoration: TextDecoration.none,
