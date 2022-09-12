@@ -26,7 +26,7 @@ dependencies:
   characters: 
   youtube_player_flutter: 
   diff_match_patch: 
-  i18n_extension: 
+  i18n_extension: ^4.2.0
   flutter_svg: ^1.0.3
   math_keyboard: ^0.1.5
   gallery_saver: ^2.3.2
